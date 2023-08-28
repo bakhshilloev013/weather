@@ -1,4 +1,5 @@
 https://openweathermap.org/api
+https://openweathermap.org/api/weather-map-1h
 
 Fontawesome cdn:
 <link rel="stylesheet" 
